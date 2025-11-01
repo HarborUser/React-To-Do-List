@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/personal-kanban-board/static/css/main.1d5fe369.css",
-    "main.js": "/personal-kanban-board/static/js/main.fcd2ae2f.js",
-    "static/js/453.b21a91d2.chunk.js": "/personal-kanban-board/static/js/453.b21a91d2.chunk.js",
-    "static/media/logo.svg": "/personal-kanban-board/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/personal-kanban-board/index.html",
-    "main.1d5fe369.css.map": "/personal-kanban-board/static/css/main.1d5fe369.css.map",
-    "main.fcd2ae2f.js.map": "/personal-kanban-board/static/js/main.fcd2ae2f.js.map",
-    "453.b21a91d2.chunk.js.map": "/personal-kanban-board/static/js/453.b21a91d2.chunk.js.map"
+    "main.css": "/React-To-Do-List/static/css/main.1d5fe369.css",
+    "main.js": "/React-To-Do-List/static/js/main.ad05dd69.js",
+    "static/js/453.b21a91d2.chunk.js": "/React-To-Do-List/static/js/453.b21a91d2.chunk.js",
+    "static/media/logo.svg": "/React-To-Do-List/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-To-Do-List/index.html",
+    "main.1d5fe369.css.map": "/React-To-Do-List/static/css/main.1d5fe369.css.map",
+    "main.ad05dd69.js.map": "/React-To-Do-List/static/js/main.ad05dd69.js.map",
+    "453.b21a91d2.chunk.js.map": "/React-To-Do-List/static/js/453.b21a91d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d5fe369.css",
-    "static/js/main.fcd2ae2f.js"
+    "static/js/main.ad05dd69.js"
   ]
 }

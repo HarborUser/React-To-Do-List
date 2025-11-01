@@ -16,8 +16,9 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 20.10.0
-      run: npm ci
-      run: npm install 
-      run: npm run test
-      run: npm run build
+      run: |
+        npm ci
+        npm install 
+        npm run test
+        npm run build
     

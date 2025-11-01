@@ -17,13 +17,9 @@ jobs:
       with:
         node-version: 20.10.0
       run: npm ci
-    - name: Install dependencies
       run: npm install 
     # - name: Run tests
     # - run: npm test
-    - name: Run Simple <h1> tag test
-    - run: npm run test
-    - name: Build file
+      run: npm run test
       run: npm run build
-    - name: Deploy file
       run: npm run deploy

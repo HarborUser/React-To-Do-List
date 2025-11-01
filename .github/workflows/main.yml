@@ -11,16 +11,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Use Node.js 20.10.0
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
-        node-version: 20.10.0
-        cache: 'npm'
-        cache-dependency-path: package-lock.json
+        node-version: 20.10.0n
     - name: Install dependencies
       run: npm install 
     # - name: Run tests
     # - run: npm test
+    - name: Run Simple <h1> tag test
+    - run: npm run test
     - name: Build file
       run: npm run build

@@ -51,7 +51,7 @@ function ToDoList(){
     return (
      <div className="to-do-list">
         <h1>Personal Kanban Board</h1>
-        <rxgx></rxgx>
+     
 
         <div className='grid'>
             <button className='test' >To Do</button>
